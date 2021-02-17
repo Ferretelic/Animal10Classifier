@@ -1,0 +1,36 @@
+Warning: No valid output stream.
+Epoch:   1
+Train Accuracy: 0.616, Validation Accuracy: 0.691
+Train Loss: 0.990, Validation Loss: 0.817
+
+Warning: No valid output stream.
+Epoch:   2
+Train Accuracy: 0.726, Validation Accuracy: 0.744
+Train Loss: 0.729, Validation Loss: 0.692
+
+Warning: No valid output stream.
+Epoch:   3
+Train Accuracy: 0.762, Validation Accuracy: 0.782
+Train Loss: 0.643, Validation Loss: 0.612
+
+Warning: No valid output stream.
+Epoch:   4
+Train Accuracy: 0.787, Validation Accuracy: 0.780
+Train Loss: 0.572, Validation Loss: 0.604
+
+Warning: No valid output stream.
+Epoch:   5
+Train Accuracy: 0.802, Validation Accuracy: 0.793
+Train Loss: 0.532, Validation Loss: 0.555
+
+Warning: No valid output stream.
+Epoch:   6
+Train Accuracy: 0.814, Validation Accuracy: 0.808
+Train Loss: 0.494, Validation Loss: 0.542
+
+Warning: No valid output stream.
+Epoch:   7
+Train Accuracy: 0.828, Validation Accuracy: 0.809
+Train Loss: 0.460, Validation Loss: 0.531
+
+Warning: No valid output stream.
