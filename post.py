@@ -17,6 +17,6 @@ def predict_from_api(api_url, image_url):
 
   return label
 
-label = predict_from_api("http://127.0.0.1:5000/predict", "https://stmaaprodfwsite.blob.core.windows.net/assets/sites/1/2019/06/1-Scald-has-been-brought-under-control-by-footbathing-and-ensuring-grass-isnt-too-long-c-no-credit.jpg")
+label = predict_from_api("http://127.0.0.1:5000/predict", "https://images.theconversation.com/files/230552/original/file-20180803-41366-8x4waf.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip")
 
 print(label)

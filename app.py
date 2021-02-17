@@ -17,9 +17,7 @@ def predict():
 
     if flask.request.method == "POST":
         if flask.request.get_json().get("image_url"):
-            image = Image.open(requests.get(flask.request.get_json().get("image_url"), stream=True).raw)
-            image = transform_image(image)
-            print(image.size())
+            image = Image.open(requests.get(flask.request.get_json().get("image_url"), stream=True).raw).convert("RGB")
             label = predict_label(image)
 
             response["label"] = label

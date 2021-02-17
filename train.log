@@ -34,3 +34,17 @@ Train Accuracy: 0.828, Validation Accuracy: 0.809
 Train Loss: 0.460, Validation Loss: 0.531
 
 Warning: No valid output stream.
+Epoch:   8
+Train Accuracy: 0.835, Validation Accuracy: 0.806
+Train Loss: 0.444, Validation Loss: 0.540
+
+Warning: No valid output stream.
+Epoch:   9
+Train Accuracy: 0.842, Validation Accuracy: 0.817
+Train Loss: 0.415, Validation Loss: 0.512
+
+Warning: No valid output stream.
+Epoch:  10
+Train Accuracy: 0.852, Validation Accuracy: 0.820
+Train Loss: 0.397, Validation Loss: 0.500
+
